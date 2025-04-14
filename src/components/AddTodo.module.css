@@ -1,0 +1,14 @@
+.cont{
+    /* border: 1px solid black; */
+    width: 80%;
+
+}
+
+.row1{
+    display: flex;
+    gap: 1rem;
+}
+
+.colNew{
+    text-align: -webkit-left !important;
+}

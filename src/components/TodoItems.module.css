@@ -1,0 +1,8 @@
+.itemContainer{
+    padding: 2rem;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+    gap: .5rem;
+}

@@ -1,0 +1,14 @@
+.fontInc{
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: rgb(54, 63, 53);
+}
+
+.cont{
+    width: 79%;
+    padding: .2rem 0px;
+}
+
+.colNew{
+    text-align: -webkit-left !important;
+}
